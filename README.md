@@ -4,7 +4,7 @@ This project applies a deep learning-based autoencoder to detect anomalies in am
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **File:** `ambient_temperature_system_failure.csv`
 - **Columns:**
@@ -13,13 +13,13 @@ This project applies a deep learning-based autoencoder to detect anomalies in am
 
 ---
 
-## 🚀 Objective
+## Objective
 
 To build an unsupervised anomaly detection system using an autoencoder that learns to reconstruct normal temperature data. Anomalies are identified when reconstruction error exceeds a certain threshold.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Install the required packages before running the project:
 
